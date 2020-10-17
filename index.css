@@ -1,0 +1,33 @@
+body{
+background-image:url("https://s3.envato.com/files/220095481/Blue%20Magical%20Stars%20Background%20Preview.jpg");
+background-repeat:no-repeat;
+background-size: 1600px 100%;
+}
+
+h1{
+    color:#ffff00;
+text-align:center;
+    font-style:bold;
+font-size:60px;
+}
+h2{
+text-shadow: 2px 2px #e0ffff;
+font-size:40px;
+color:#c0c0c0;
+}
+div{
+color:#ffb6c1;
+font-size:30px;
+display: inline-block;
+width:30%
+height:50px;
+margin:30px;
+}
+#id{
+float:right;
+}
+img{
+  display: block;
+  margin-left: 400px;
+  margin-right:400px;
+}
